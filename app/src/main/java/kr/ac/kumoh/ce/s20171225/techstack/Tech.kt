@@ -9,4 +9,5 @@ data class Tech(
     val category: String,
     val difficulty: Int,
     val trend_index: Int,
+    val official_website: String,
 )
